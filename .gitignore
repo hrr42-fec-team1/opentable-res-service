@@ -25,6 +25,7 @@ build/
 dist/
 public/dist/
 
-client/config
+client/config/*
+!client/config/*example*
 
 fec.pem
